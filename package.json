@@ -1,0 +1,8 @@
+{
+  "name": "quote",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/fernandadagostin/quote.git",
+  "author": "fernandadagostin <nanda.dagostin@gmail.com>",
+  "license": "MIT"
+}
